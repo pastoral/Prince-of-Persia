@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Blocks
+  - Magnet
+  - Bots
+  - Star
+  - Kover
+  - Coin
+  - Catapulta
+  - CatapultaStart
+  - Book
+  - Pipe
+  - Emerald
+  - Gold
+  - Kalyan
+  - Lamp
+  - Rubin
+  - Urna
+  - Vaza
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Store
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 4136315805
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
